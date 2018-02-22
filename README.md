@@ -2,7 +2,6 @@
 
 Simple, but extensive customization of ZSH, TMUX, and Vim. 
 
-[![VideoWalkthrough](https://img.youtube.com/vi/UgDz_9i2nwc/0.jpg)](https://www.youtube.com/watch?v=UgDz_9i2nwc)
 
 ## Setup Options
 
